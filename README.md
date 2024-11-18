@@ -9,10 +9,10 @@ El objetivo principal de este proyecto es analizar las tendencias de videos de Y
 
 ### Participantes
 - **Alejandra Gallo** (Business Project Sponsor)  
-- **---** (Data Scientist)  
-- **----** (Data Engineer)  
-- **----** (Data Analyst)
-- **----** (Data Analyst Assistant)
+- **Diego Melendez** (Data Scientist)  
+- **Jhamil Peña** (Data Engineer)  
+- **André Escalante** (Data Analyst)
+- **Leonardo Bravo** (Data Analyst Assistant)
 - 
 ### Descripción del Conjunto de Datos
 El conjunto de datos utilizado para este proyecto corresponde a las estadísticas de videos en tendencia de YouTube para México.  
